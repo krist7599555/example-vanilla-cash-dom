@@ -30,6 +30,7 @@ const header = $(/*html*/ `<nav class="px-4 py-2 border-b flex justify-between">
     <a class="underline" href="${base_path}/">Home</a>
     <a class="underline" href="${base_path}/about.html">About</a>
     <a class="underline" href="${base_path}/admin.html">Admin</a>
+    <a class="underline" href="https://github.com/krist7599555/example-vanilla-cash-dom">Github</a>
   </div>
 </nav>`).appendTo(app);
 
